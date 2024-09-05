@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Display:wght@100..900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&display=swap');
+
+body{
+    font-family: "Noto Serif", system-ui;
+    background-color: #F7F7F8;
+    text-align: justify;
+}
+
+h1, h4 {
+    font-family: "Noto Serif Display", serif;
+    font-weight: 800;
+    text-align: center;
+}
+
+h1{text-decoration: underline;
+    color: #3A1078;
+}
+
+h4 {font-weight: 300;
+    color: #FF8343;}
+
+#left{text-align: left;
+    color: black;}
+
+#ol_back {
+    background-color: #3A1078;
+    color: white;
+}
+
+a:link, a:visited {color: black;}
